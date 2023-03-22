@@ -19,7 +19,7 @@ Program Studi Ilmu Komputer.
 ```
 a. Mahasiswa mampu memahami konsep Object Oriented Programming (OOP) digunakan untuk penyelesaian permasalahan-permasalahan yang ada.
 b. Mahasiswa mampu memahami perbedaan antara Class dan object, implementasi class dan object, method dalam berbagai bahasa (C++, java, PHP, pyhton) serta type data nya.
-c. Kasus-kasus implementasi Graphical User Interface (GUI) 
+c. Kasus-kasus implementasi Graphical User Interface (GUI) dengan menggunakan tools Apache NetBeans. 
 d. Mahasiswa mampu memahami konsep Graphical User Interface (GUI) dalam Pemrograman Berorientasi Objek.
 ```
 
@@ -48,14 +48,38 @@ d. Mahasiswa mampu memahami konsep Graphical User Interface (GUI) dalam Pemrogra
 
 ### Desain Program :
 Desain yang dibuat ialah, diantaranya :
-1. Mahasiswa
-   - Kelas Mahasiswa memiliki x atribut, diantaranya : xxxxx
+Kelas Mahasiswa
+   - Kelas Mahasiswa memiliki 4 atribut, diantaranya : NIM, Nama, Nilai dan Gender.
 
+Terdapat beberapa tombol dalam program ini yakni :
+   - Menambahkan data mahasiswa
+   - Mengubah data mahasiswa
+   - Menghapus data mahasiswa
+   - Menampilkan data keseluruhan mahasiswa
 
 ### Dokumentasi Running Program
-##### Berikut merupakan dokumentasi hasil running 
+### a. Tampilan Awal 
+##### ![Tamp_Awal](/screenshot/tampilan_awal.png "1")
 
+### b. Menambah Data 
+##### ![add](/screenshot/add1.png "1")
+##### ![add](/screenshot/add2.png "2")
+####  Hasil setelah ditambahkan :
+##### ![add](/screenshot/add3.png "3")
 
+### c. Mengubah Data 
+##### ![ubah](/screenshot/ubah1.png "1")
+##### ![ubah](/screenshot/ubah2.png "2")
+##### ![ubah](/screenshot/ubah3.png "3")
+####  Hasil setelah diubah :
+##### ![ubah](/screenshot/ubah4.png "4")
+
+### d. Menghapus Data 
+##### ![hapus](/screenshot/hapus1.png "1")
+##### ![hapus](/screenshot/hapus2.png "2")
+##### ![hapus](/screenshot/hapus3.png "3")
+####  Hasil setelah dihapus :
+##### ![hapus](/screenshot/hapus4.png "4")
 
 
 ### **Catatan**
